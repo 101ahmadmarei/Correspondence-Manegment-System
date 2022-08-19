@@ -1,5 +1,6 @@
 # Correspondence Management System 
-#### (Email Workflow Tracking & Instant Messaging Channels)
+(Email Workflow Tracking & Instant Messaging Channels)
+
 #### This repository contains the code for my graduation project. This project was submitted in partial fulfilment of the requirements for the bachelor's degree in computer systems engineering.
 Below attached the project's thesis with a brief presentation  👇
 
